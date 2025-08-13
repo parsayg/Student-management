@@ -14,7 +14,7 @@ A simple command-line Python application to manage student information including
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites 
 
 - Python 3.x installed on your system.
 - Basic understanding of running Python scripts from the command line.
